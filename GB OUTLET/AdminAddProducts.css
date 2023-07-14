@@ -1,0 +1,50 @@
+h1{
+    font-size: 65px;
+}
+
+thead{
+
+    background-color: aqua;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  input[type=file], select {
+    width: 90%;
+    padding: 8px 18px;
+    margin: 4px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:15px;
+  }
+
+  label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+  }
+
+ul{
+    background-color: blue;
+  }
+a.navbar-brand{
+ background-color: blue;
+}
+
+.navbar-header{
+    background-color: blue;
+}
+.container-fluid{
+    background-color: blue;
+}
