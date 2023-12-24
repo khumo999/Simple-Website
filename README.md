@@ -1,5 +1,5 @@
 # Simple-Website
 
-The Simple Ecommerce is a website i made for my school research projec.
+Simple E-commerce is a website I made for my school research project.
 
-If i haven't provided the SQL, should you need the website just email @ khumo357matlhabe@gmail.com 
+If I haven't provided the SQL, should you need the sql file  just email @ khumo357matlhabe@gmail.com  and the website is free to use and  add new features.
